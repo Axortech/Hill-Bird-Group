@@ -27,7 +27,7 @@ const Nav = () => {
         {/* Logo/Brand on the left */}
         <div className="flex items-center">
           <a href="/" className="text-xl font-bold text-blue-600">
-            <img src="/path-to-logo.png" alt="Brand Logo" className="h-10" />
+            <img src="/logo.png" alt="Brand Logo" className="h-10" />
           </a>
         </div>
 
